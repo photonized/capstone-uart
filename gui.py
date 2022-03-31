@@ -29,7 +29,7 @@ def slider_changed(event):
 # label for the slider
 slider_label = ttk.Label(
     root,
-    text='Slider:'
+    text='Volume:'
 )
 
 slider_label.grid(
